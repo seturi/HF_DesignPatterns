@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48d3ad30-1454-43e1-bad2-777d79bb066c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DesignPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/01_Strategy/sum01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/02_Observer/sum02.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/03_Decorator/sum03.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/04_Factory/sum04.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/05_Singleton/sum05.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/06_Command/sum06.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/07_Adapter_Facade/sum07.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/08_TemplateMethod/sum08.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/09_Iterator_Composite/sum09.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/10_State/sum10.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/11_Proxy/sum11.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/12_Compound/sum12.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/13_DesignPatternGuide/sum13.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/headfirst/designpatterns/14_Appendix/appendix.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gzZAoODt2a1YQhAMphGTsZJPAt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/02_Observer" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\02_Observer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WeatherStationHeatIndex">
+    <configuration name="MiniDuckSimulator1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c01_strategy.MiniDuckSimulator1" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c01_strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobserver.WeatherStation" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherStation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobservable.WeatherStation" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobservable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherStationHeatIndex (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobservable.WeatherStationHeatIndex" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobservable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WeatherStationHeatIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobserver.WeatherStationHeatIndex" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WeatherStationHeatIndex" />
+        <item itemvalue="Application.WeatherStation (1)" />
+        <item itemvalue="Application.WeatherStationHeatIndex (1)" />
+        <item itemvalue="Application.WeatherStation" />
+        <item itemvalue="Application.MiniDuckSimulator1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48d3ad30-1454-43e1-bad2-777d79bb066c" name="Default Changelist" comment="" />
+      <created>1599119240886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599119240886</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1599133998554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599133998554" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599135700392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135700392" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599135700392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135700392" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599135700391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135700391" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599135700392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135700392" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599134508613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599134508613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599134508613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599134508613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1599135145273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135145273" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1599135145634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135145634" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599135145634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135145634" />
+    <state x="476" y="144" width="584" height="536" key="find.popup" timestamp="1599135565177">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="476" y="144" width="584" height="536" key="find.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135565177" />
+    <state x="474" y="168" key="refactoring.ChangeSignatureDialog" timestamp="1599130808445">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="474" y="168" key="refactoring.ChangeSignatureDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599130808445" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1599135578299">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599135578299" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand>
+      <path>
+        <item name="DesignPatterns" type="b2602c69:ProjectViewProjectNode" />
+        <item name="DesignPatterns" type="462c0819:PsiDirectoryNode" />
+      </path>
+    </expand>
+    <select />
+  </component>
+</project>
