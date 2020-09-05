@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c03_decorator" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c05_singleton" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,11 +36,52 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c05_singleton" />
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c04_factory" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c03_decorator" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\02_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StarbuzzCoffee (1)">
+  <component name="RunManager" selected="Application.ChocolateController">
+    <configuration name="ChocolateController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c05_singleton.chocolate.ChocolateController" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c05_singleton.chocolate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c04_factory.pizzafranchise.PizzaTestDrive" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c04_factory.pizzafranchise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c04_factory.pizzas.PizzaTestDrive" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="headfirst.designpatterns.c04_factory.pizzas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StarbuzzCoffee (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c03_decorator.starbuzzWithSizes.StarbuzzCoffee" />
       <module name="DesignPatterns" />
@@ -67,52 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeatherStation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobserver.WeatherStation" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeatherStationHeatIndex (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobservable.WeatherStationHeatIndex" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobservable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WeatherStationHeatIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c02_observer.weatherobserver.WeatherStationHeatIndex" />
-      <module name="DesignPatterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c02_observer.weatherobserver.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ChocolateController" />
+        <item itemvalue="Application.PizzaTestDrive (1)" />
+        <item itemvalue="Application.PizzaTestDrive" />
         <item itemvalue="Application.StarbuzzCoffee (1)" />
         <item itemvalue="Application.StarbuzzCoffee" />
-        <item itemvalue="Application.WeatherStationHeatIndex" />
-        <item itemvalue="Application.WeatherStation (1)" />
-        <item itemvalue="Application.WeatherStationHeatIndex (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -134,38 +136,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599133998554" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599219984966">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599292682701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599219984966" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599219984966">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599292682701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599219984966" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599219984966">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599292682701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599219984966" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599219984966">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599292682701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599219984966" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599134508613">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599291061901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599134508613">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599291061901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599134508613">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599291061901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599134508613">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599291061901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599134508613" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1599135145273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
