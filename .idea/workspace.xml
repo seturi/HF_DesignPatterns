@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c05_singleton" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c07_adapter_facade/facade" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,19 +36,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c07_adapter_facade\facade" />
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c07_adapter_facade\adapter" />
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c06_command" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c05_singleton" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c04_factory" />
-      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c03_decorator" />
-      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\02_Observer" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ChocolateController">
-    <configuration name="ChocolateController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c05_singleton.chocolate.ChocolateController" />
+  <component name="RunManager" selected="Application.HomeTheaterTestDrive">
+    <configuration name="EI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c07_adapter_facade.adapter.iterator_enumeration.EI" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c05_singleton.chocolate.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c07_adapter_facade.adapter.iterator_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c04_factory.pizzafranchise.PizzaTestDrive" />
+    <configuration name="EnumerationIteratorTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c07_adapter_facade.adapter.iterator_enumeration.EnumerationIteratorTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c04_factory.pizzafranchise.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c07_adapter_facade.adapter.iterator_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PizzaTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c04_factory.pizzas.PizzaTestDrive" />
+    <configuration name="HomeTheaterTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c07_adapter_facade.facade.hometheater.HomeTheaterTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c04_factory.pizzas.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c07_adapter_facade.facade.hometheater.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarbuzzCoffee (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c03_decorator.starbuzzWithSizes.StarbuzzCoffee" />
+    <configuration name="IteratorEnumerationTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c07_adapter_facade.adapter.iterator_enumeration.IteratorEnumerationTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c03_decorator.starbuzzWithSizes.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c07_adapter_facade.adapter.iterator_enumeration.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarbuzzCoffee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c03_decorator.starbuzz.StarbuzzCoffee" />
+    <configuration name="TurkeyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c07_adapter_facade.adapter.ducks.TurkeyTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c03_decorator.starbuzz.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c07_adapter_facade.adapter.ducks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ChocolateController" />
-        <item itemvalue="Application.PizzaTestDrive (1)" />
-        <item itemvalue="Application.PizzaTestDrive" />
-        <item itemvalue="Application.StarbuzzCoffee (1)" />
-        <item itemvalue="Application.StarbuzzCoffee" />
+        <item itemvalue="Application.HomeTheaterTestDrive" />
+        <item itemvalue="Application.EI" />
+        <item itemvalue="Application.IteratorEnumerationTestDrive" />
+        <item itemvalue="Application.EnumerationIteratorTestDrive" />
+        <item itemvalue="Application.TurkeyTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -136,22 +137,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599133998554" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599292682701">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599388667231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599292682701">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599388667231" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599388667231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599292682701">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599388667230" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599388667230">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599292682701">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599388667230" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599388667231">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599292682701" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599388667231" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599291061901">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
