@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c09_iterator_composite/composite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c11_proxy" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,20 +36,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c11_proxy" />
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c10_state" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c09_iterator_composite\composite" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c09_iterator_composite\iterator" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c09_iterator_composite\iterator\dinermerger" />
-      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c08_templatemethod" />
-      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c07_adapter_facade\facade" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MenuTestDrive (4)">
-    <configuration name="MenuTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c09_iterator_composite.iterator.dinermerger_import_iterator.MenuTestDrive" />
+  <component name="RunManager" selected="Application.MatchMakingTestDrive">
+    <configuration name="GumballMachineTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c10_state.gumballstate.GumballMachineTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c09_iterator_composite.iterator.dinermerger_import_iterator.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c10_state.gumballstate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuTestDrive (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c09_iterator_composite.iterator.dinermergercafe.MenuTestDrive" />
+    <configuration name="GumballMachineTestDrive (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c10_state.gumballstatewinner.GumballMachineTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c09_iterator_composite.iterator.dinermergercafe.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c10_state.gumballstatewinner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuTestDrive (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c09_iterator_composite.composite.menu.MenuTestDrive" />
+    <configuration name="GumballMachineTestDrive (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c11_proxy.gumballmonitor.GumballMachineTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c09_iterator_composite.composite.menu.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c11_proxy.gumballmonitor.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuTestDrive (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c09_iterator_composite.composite.menuiterator.MenuTestDrive" />
+    <configuration name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c11_proxy.cdcoverviewer.ImageProxyTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c09_iterator_composite.composite.menuiterator.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c11_proxy.cdcoverviewer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MenuTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c09_iterator_composite.iterator.dinermerger_iterator_interface.MenuTestDrive" />
+    <configuration name="MatchMakingTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c11_proxy.matchmaker.MatchMakingTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c09_iterator_composite.iterator.dinermerger_iterator_interface.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c11_proxy.matchmaker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MenuTestDrive (4)" />
-        <item itemvalue="Application.MenuTestDrive (3)" />
-        <item itemvalue="Application.MenuTestDrive (2)" />
-        <item itemvalue="Application.MenuTestDrive (1)" />
-        <item itemvalue="Application.MenuTestDrive" />
+        <item itemvalue="Application.MatchMakingTestDrive" />
+        <item itemvalue="Application.ImageProxyTestDrive" />
+        <item itemvalue="Application.GumballMachineTestDrive (3)" />
+        <item itemvalue="Application.GumballMachineTestDrive (2)" />
+        <item itemvalue="Application.GumballMachineTestDrive (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -137,42 +137,46 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599133998554" />
+    <state x="527" y="305" width="483" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599626563014">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="527" y="305" width="483" height="220" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599626563014" />
     <state x="550" y="318" width="438" height="187" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1599475983467">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="550" y="318" width="438" height="187" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599475983467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599570669448">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599629013781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599570669448" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599570669447">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599629013781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599570669447" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599570669446">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599629013781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599570669446" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599570669448">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599629013781">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599570669448" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599291061901">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599627568828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599291061901">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599627568828" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1599627568828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599291061901">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599627568828" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1599627568828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599291061901">
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599627568828" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1599627568828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599291061901" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599627568828" />
     <state x="277" y="0" key="SettingsEditor" timestamp="1599135145273">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
