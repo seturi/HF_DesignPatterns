@@ -28,7 +28,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c11_proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/headfirst/designpatterns/c12_compound" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -36,20 +36,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c12_compound" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c11_proxy" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c10_state" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c09_iterator_composite\composite" />
       <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c09_iterator_composite\iterator" />
-      <recent name="C:\Users\SwKim\Desktop\ing\Coding\HeadFirst\DesignPatterns\src\headfirst\designpatterns\c09_iterator_composite\iterator\dinermerger" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MatchMakingTestDrive">
-    <configuration name="GumballMachineTestDrive (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c10_state.gumballstate.GumballMachineTestDrive" />
+  <component name="RunManager" selected="Application.HeartTestDrive">
+    <configuration name="DJTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c12_compound.djview_heartview.DJTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c10_state.gumballstate.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c12_compound.djview_heartview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GumballMachineTestDrive (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c10_state.gumballstatewinner.GumballMachineTestDrive" />
+    <configuration name="DuckSimulator (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c12_compound.ducksfactory.DuckSimulator" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c10_state.gumballstatewinner.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c12_compound.ducksfactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GumballMachineTestDrive (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c11_proxy.gumballmonitor.GumballMachineTestDrive" />
+    <configuration name="DuckSimulator (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c12_compound.duckscomposite.DuckSimulator" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c11_proxy.gumballmonitor.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c12_compound.duckscomposite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ImageProxyTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c11_proxy.cdcoverviewer.ImageProxyTestDrive" />
+    <configuration name="DuckSimulator (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c12_compound.ducksobserver.DuckSimulator" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c11_proxy.cdcoverviewer.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c12_compound.ducksobserver.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchMakingTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c11_proxy.matchmaker.MatchMakingTestDrive" />
+    <configuration name="HeartTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="headfirst.designpatterns.c12_compound.djview_heartview.HeartTestDrive" />
       <module name="DesignPatterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="headfirst.designpatterns.c11_proxy.matchmaker.*" />
+          <option name="PATTERN" value="headfirst.designpatterns.c12_compound.djview_heartview.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MatchMakingTestDrive" />
-        <item itemvalue="Application.ImageProxyTestDrive" />
-        <item itemvalue="Application.GumballMachineTestDrive (3)" />
-        <item itemvalue="Application.GumballMachineTestDrive (2)" />
-        <item itemvalue="Application.GumballMachineTestDrive (1)" />
+        <item itemvalue="Application.HeartTestDrive" />
+        <item itemvalue="Application.DJTestDrive" />
+        <item itemvalue="Application.DuckSimulator (5)" />
+        <item itemvalue="Application.DuckSimulator (4)" />
+        <item itemvalue="Application.DuckSimulator (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -133,6 +133,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="475" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599817615361">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="475" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599817615361" />
     <state x="574" y="118" key="#com.intellij.ide.util.MemberChooser" timestamp="1599133998554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -145,22 +149,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="550" y="318" width="438" height="187" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599475983467" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599629013781">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1599819114087">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599629013781">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599819114087" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1599819114086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599629013781">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599819114086" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1599819114086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599629013781">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599819114086" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1599819114086">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599629013781" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1599819114086" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1599627568828">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
